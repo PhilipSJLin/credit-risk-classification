@@ -27,7 +27,7 @@ The results were based on the Accuary, Precision, and Recall scores. <br/>
     *The oversampled logistic regression model has a higher accuracy (99%) in predicting the labels and a higher recall score (100%) in correctly predicting the high-risk loans out of the dataset. The precision score stayed at the same score as the original model.
 
 ## **Summary**
-Based on the results, Model 2 performed better at predicting high-risk loans and displayed a higher accuracy when compared to Model 1. Based on the nature of our problem, I recommend using an oversampled linear regression model because it helps us stabilizes our results in predicting both the high-risk (1) and the healthy-risk (0) with highly accurate results.<br/>
+Based on the results, Model 2 performed better at predicting high-risk loans and displayed a higher accuracy when compared to Model 1. Based on the nature of our problem, I recommend using an oversampled logistic regression model because it helps us stabilizes our results in predicting both the high-risk (1) and the healthy-risk (0) with highly accurate results.<br/>
 
 ## **Data**
 For my assignment, I have used data extracted from the following files available in the Resources folder. <br/>
