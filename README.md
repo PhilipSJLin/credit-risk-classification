@@ -18,7 +18,7 @@ The results were based on the Accuary, Precision, and Recall scores. <br/>
     *Accuracy: 94%
     *Precision: 87%
     *Recall: 89%
-    *The model is very good at predicting the healthy loans. However, the model's precision only predicted 87% of all actual high-risk loans and 89% of all high-risk loans which suggest that margin of error can be improved
+    *The logistic regression model is very good at predicting the healthy loans. However, the model's precision only predicted 87% of all actual high-risk loans and 89% of all high-risk loans which suggest that margin of error can be improved
 
 * Machine Learning Model-2(Oversampled Model):<br>
     *Accuracy: 99%
